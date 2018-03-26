@@ -1,0 +1,16 @@
+{
+  "name": "one-concurrent",
+  "version": "1.0.0",
+  "description": "Allows you to 'call' an asynchronous function multiple times, each time with a callback supplied, but only ever have one instance of the function running concurrently",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" : { 
+  	"type" : "git",
+  	"url" : "https://github.com/michaelmcneela/one-concurrent"
+  },
+  "bugs": "https://github.com/michaelmcneela/one-concurrent/issues",
+  "author": "Michael McNeela",
+  "license": "MIT"
+}
